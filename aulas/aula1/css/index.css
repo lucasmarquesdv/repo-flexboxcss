@@ -1,0 +1,16 @@
+/* TAG CONTAINER */
+.container {
+    display: flex;
+    flex-direction: row; /*Mudar eixos*/
+    justify-content: space-around; /*Alinha os elementos*/
+}
+
+.bloco1,
+.bloco2,
+.bloco3 {
+    color: black;
+    font-weight: 600;
+}
+
+/* As propriedades flex-direction são várias. Existem row, row-reverse, column e column-reverse. */
+/* As propriedades justify-content são várias. Existem o flex-start, flex-end, center, space-between, space-around. */

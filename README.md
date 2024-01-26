@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Facciojob.com%2Fblog%2Funtitled-19%2F&psig=AOvVaw2XpQ35xGvdAObcFKy_BX6e&ust=1706320393810000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDrtfn4-YMDFQAAAAAdAAAAABAD)
+![FlexboxCSS](https://acciojob.com/blog/content/images/2023/02/Screenshot-2023-02-06-at-7.28.31-PM.png)
 
 # repo-flexboxcss
 A repository from courses that I created on the theme of Flexbox CSS.
@@ -24,6 +24,8 @@ Este repositório é apenas para estudos.
 # Badges
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:lucasmarquesdv/:repo/:workflow) ![GitHub followers](https://img.shields.io/github/followers/:lucasmarquesdv)
 ![GitHub Org's stars](https://img.shields.io/github/stars/lucasmarquesdv?style=social)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 
 # Funcionalidades e Demonstrações

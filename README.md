@@ -1,6 +1,3 @@
-![Thumbnail GitHub](https://user-images.githubusercontent.com/8989346/123294187-ff901300-d4ea-11eb-963c-ac1561afac6f.png)
-
-
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Facciojob.com%2Fblog%2Funtitled-19%2F&psig=AOvVaw2XpQ35xGvdAObcFKy_BX6e&ust=1706320393810000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDrtfn4-YMDFQAAAAAdAAAAABAD)
 
 # repo-flexboxcss

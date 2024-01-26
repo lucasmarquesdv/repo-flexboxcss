@@ -23,6 +23,8 @@ Este repositório é apenas para estudos.
 
 # Badges
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:lucasmarquesdv/:repo/:workflow) ![GitHub followers](https://img.shields.io/github/followers/:lucasmarquesdv)
+![GitHub Org's stars](https://img.shields.io/github/stars/lucasmarquesdv?style=social)
+
 
 # Funcionalidades e Demonstrações
 <h4 align="center"> 

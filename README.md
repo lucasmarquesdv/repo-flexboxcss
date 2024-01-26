@@ -1,16 +1,20 @@
+![Thumbnail GitHub](https://user-images.githubusercontent.com/8989346/123294187-ff901300-d4ea-11eb-963c-ac1561afac6f.png)
+
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Facciojob.com%2Fblog%2Funtitled-19%2F&psig=AOvVaw2XpQ35xGvdAObcFKy_BX6e&ust=1706320393810000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDrtfn4-YMDFQAAAAAdAAAAABAD)
+
 # repo-flexboxcss
 A repository from courses that I created on the theme of Flexbox CSS.
 # Indice
 * [Título e Imagem de capa](#repo-flexboxcss)
-* [Badges](#badges)
+* [Badges](#Badges)
 * [Índice](#Indice)
 * [Descrição do Projeto](#Descrição-do-projeto)
 * [Status do Projeto](#Status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#Status-do-Projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Funcionalidades e Demonstração da Aplicação](#Funcionalidades-e-Demonstrações)
+* [Tecnologias utilizadas](#Tecnologias-Utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Pessoas Desenvolvedoras do Projeto](#Pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
@@ -20,13 +24,15 @@ Este repositório é apenas para estudos.
 
 # Status do Projeto
 
-# GitHub Actions Workflow
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:lucasmarquesdv/:repo/:workflow)
+# Badges
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:lucasmarquesdv/:repo/:workflow) ![GitHub followers](https://img.shields.io/github/followers/:lucasmarquesdv)
 
-# My followers
-![GitHub followers](https://img.shields.io/github/followers/:lucasmarquesdv)
-
-# Content
+# Funcionalidades e Demonstrações
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
+
+# Tecnologias Utilizadas
+
+# Pessoas desenvolvedoras
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/104745874?v=4" width=115><br><sub>Lucas Marques</sub>](https://github.com/lucasmarquesdv)

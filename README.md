@@ -1,6 +1,5 @@
 ![FlexboxCSS](https://acciojob.com/blog/content/images/2023/02/Screenshot-2023-02-06-at-7.28.31-PM.png)
 
-# repo-flexboxcss
 A repository from courses that I created on the theme of Flexbox CSS.
 # Indice
 * [Título e Imagem de capa](#repo-flexboxcss)

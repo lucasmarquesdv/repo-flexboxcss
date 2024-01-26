@@ -1,7 +1,6 @@
 # repo-flexboxcss
 A repository from courses that I created on the theme of Flexbox CSS.
 # Indice
-<h4 align="center">
 * [Título e Imagem de capa](#repo-flexboxcss)
 * [Badges](#badges)
 * [Índice](#Indice)
@@ -14,7 +13,6 @@ A repository from courses that I created on the theme of Flexbox CSS.
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
-</h4>
 
 
 # Descrição do projeto

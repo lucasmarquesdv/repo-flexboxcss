@@ -1,8 +1,11 @@
 /* TAG CONTAINER */
 .container {
-    display: flex;
-    flex-direction: row; /*Mudar eixos*/
-    justify-content: space-around; /*Alinha os elementos*/
+    width: 500px;
+    display: flex; /*Identificar que a tag vai ser o container de flexbox*/
+    flex-direction: row; /*Identificar qual vai ser o eixo principal e perpendicular*/
+    justify-content: center; /*Alinha os elementos no eixo principal*/
+    align-items: center; /*Usado para alinhar eixos perpendiculares*/
+    
 }
 
 .bloco1,

@@ -3,9 +3,11 @@
     width: 500px;
     display: flex; /*Identificar que a tag vai ser o container de flexbox*/
     flex-direction: row; /*Identificar qual vai ser o eixo principal e perpendicular*/
+    flex-wrap: wrap;
     justify-content: center; /*Alinha os elementos no eixo principal*/
     align-items: center; /*Usado para alinhar eixos perpendiculares*/
-    
+    row-gap: 10px;
+    column-gap: 30px;
 }
 
 .bloco1,
@@ -17,3 +19,8 @@
 
 /* As propriedades flex-direction são várias. Existem row, row-reverse, column e column-reverse. */
 /* As propriedades justify-content são várias. Existem o flex-start, flex-end, center, space-between, space-around. */
+/* Display_flex identifica que a tag vai ser o container de flexbox. */
+/* Flex-direction identifica qual vai ser o eixo principal e perpendicular. */
+/* Jusitify-content alinha os elementos no eixo principal. */
+/* Align-items alinha os elementos no eixo perpendicular. */
+/* Align-content alinha os elementos em mais de uma linha, quando estiver usando wrap. */

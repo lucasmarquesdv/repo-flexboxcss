@@ -21,7 +21,8 @@ Este repositório é apenas para estudos.
 # Status do Projeto
 
 # Badges
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:lucasmarquesdv/:repo/:workflow) ![GitHub followers](https://img.shields.io/github/followers/:lucasmarquesdv)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:lucasmarquesdv/:repo/:workflow) 
+![GitHub followers](https://img.shields.io/github/followers/:lucasmarquesdv)
 ![GitHub Org's stars](https://img.shields.io/github/stars/lucasmarquesdv?style=social)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -29,7 +30,7 @@ Este repositório é apenas para estudos.
 
 # Funcionalidades e Demonstrações
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  Projeto em construção
 </h4>
 
 # Tecnologias Utilizadas

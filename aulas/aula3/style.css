@@ -1,31 +1,43 @@
 .container {
     width: 100%;
     height: 100%;
-
+    grid-template-areas: "red blue green yellow" /*serve para mudar a posição dos elementos e trocar; mas para que aconteça isso é necessário você dizer para o CSS que quer alterar as areas.*/
     display: grid; /*Começo do Grid CSS*/
-    grid-template-columns: 1fr 1fr; /*Define o número de colunas. fr significa fração*/
-    grid-template-rows: 200px 300px;
+    grid-template-columns: 300px 300px; /*Define o número de colunas. fr significa fração.
+    
+    OBSERVAÇÃO: Se você remover o height e o width de div, verá que pode criar colunas com grid template columns e setar o tamanho das colunas.
+
+    um exemplo seria grid-template-colums: repeat(3, 300px)
+
+    aquele 3 significa a quantidade de colunas que você quer, se você tiver com outras colunas no seu Grid CSS, e mudar o tamanho deles, verá que todas as colunas será alterada pelo valor que você colocar ali no grid-template-areas
+    */
+    grid-template-rows: 300px 300px 300px;
+    gap: 24px;/*criar espaçamento*/
+    align-items: center; /*faz com que os elementos se alinhe com a caixa, ou o container pai. ALINHA APENAS VERTICALMENTE*/
+    justify-items: center; /*alinha no centro no eixo horizontal, eixo x*/
 }
 
 div {
-    flex-direction: row;
-    flex-wrap: wrap;
-    /* height: 200px;
-    width: 200px; */
+    height: 200px;
+    width: 200px; /*quando tem-se um tamanho definido e ocupam um tamanho menor do que a caixa, podemos manipular o align-items e o justify-items */
 }
 
 .red {
     background-color: red;
+    grid-area: red;
 }
 
 .blue {
     background-color: blue;
+    grid-area: blue;
 }
 
 .green {
     background-color: green;
+    grid-area: green;
 }
 
 .yellow {
     background-color: yellow;
+    grid-area: yellow;
 }
